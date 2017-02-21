@@ -1,0 +1,110 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3141,        102]
+NotebookOptionsPosition[      2431,         74]
+NotebookOutlinePosition[      2777,         89]
+CellTagsIndexPosition[      2734,         86]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[{
+ "Calculus III: Project 1- The TNB Coaster\n",
+ StyleBox["APPM 2350 : Spring 2017\nAuthors:\n",
+  FontSize->18]
+}], "Title",
+ CellChangeTimes->{{3.695311359360178*^9, 3.6953113922796164`*^9}, {
+  3.6953114422404213`*^9, 3.6953114481487503`*^9}, {3.6953116400251102`*^9, 
+  3.695311662173798*^9}, {3.695312076615888*^9, 3.6953121404481573`*^9}, {
+  3.6965991612034464`*^9, 3.696599178550725*^9}, {3.6965992224120755`*^9, 
+  3.696599226463008*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["Section 1: Modeling the Coaster", "Section",
+ CellChangeTimes->{{3.695311410174259*^9, 3.695311422470625*^9}, {
+  3.695311480192441*^9, 3.6953114835738163`*^9}, {3.696598857756981*^9, 
+  3.696598861749542*^9}}],
+
+Cell["\<\
+Graphics - Code
+\
+\>", "Subsection",
+ CellChangeTimes->{{3.696598925887006*^9, 3.696598963857618*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Section II: How Fun is Your Roller Coaster", "Section",
+ CellChangeTimes->{{3.695311410174259*^9, 3.695311422470625*^9}, {
+  3.695311480192441*^9, 3.6953114835738163`*^9}, {3.695311524837593*^9, 
+  3.6953115332199993`*^9}, {3.696599039094255*^9, 3.696599049837288*^9}}],
+
+Cell["2.1 - Drop Factor", "Subsection",
+ CellChangeTimes->{{3.696599058811036*^9, 3.696599081526681*^9}}],
+
+Cell["2.2 - Speed Factor", "Subsection",
+ CellChangeTimes->{{3.696599073631733*^9, 3.6965990779793344`*^9}}],
+
+Cell["2.3 - Torsion and Curvature Factors", "Subsection",
+ CellChangeTimes->{{3.696599089432594*^9, 3.69659912203586*^9}}],
+
+Cell["2.4 - Coaster Length", "Subsection",
+ CellChangeTimes->{{3.696599103758455*^9, 3.696599108664584*^9}}],
+
+Cell["2.5 - The Fun Score", "Subsection",
+ CellChangeTimes->{{3.6965991136233964`*^9, 3.6965991187356215`*^9}}]
+}, Open  ]],
+
+Cell["Section III: Is This Coaster Safe?", "Section",
+ CellChangeTimes->{{3.6965991331992965`*^9, 3.696599143106613*^9}}]
+}, Open  ]]
+},
+WindowSize->{958, 988},
+WindowMargins->{{Automatic, -7}, {Automatic, 0}},
+FrontEndVersion->"11.0 for Microsoft Windows (64-bit) (September 21, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 462, 9, 194, "Title"],
+Cell[CellGroupData[{
+Cell[1067, 35, 216, 3, 70, "Section"],
+Cell[1286, 40, 112, 4, 79, "Subsection"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1435, 49, 275, 3, 70, "Section"],
+Cell[1713, 54, 105, 1, 49, "Subsection"],
+Cell[1821, 57, 108, 1, 41, "Subsection"],
+Cell[1932, 60, 122, 1, 41, "Subsection"],
+Cell[2057, 63, 108, 1, 41, "Subsection"],
+Cell[2168, 66, 111, 1, 41, "Subsection"]
+}, Open  ]],
+Cell[2294, 70, 121, 1, 70, "Section"]
+}, Open  ]]
+}
+]
+*)
+
